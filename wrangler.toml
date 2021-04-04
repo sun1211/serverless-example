@@ -1,0 +1,6 @@
+name = "serverless-example"
+type = "webpack"
+account_id = "5b607250236999b70db0dd19c1aa866c"
+workers_dev = true
+route = ""
+zone_id = ""
